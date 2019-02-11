@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~milligram";
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic');
+
+nav ul li {
+  margin: 1em;
+  padding: 1em;
+  display: block;
+  display: inline;
+}
+nav ul li.active {
+  color: red;
+  border-bottom: 1px solid gray;
+}
