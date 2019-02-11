@@ -2,6 +2,8 @@
 
 This is a simple hello world app that demonstrates multiple Angular projects using the Angular-cli.  The app leverages Angular's lazy loading feature. :muscle:
 
+This is following this wonderful guide: [combining-multiple-angular-applications-into-a-single-one](https://medium.com/disney-streaming/combining-multiple-angular-applications-into-a-single-one-e87d530d6527)
+
 ## Some of the benefits
 
 1. Uses the Angular-cli; which promotes consistent naming conventions
